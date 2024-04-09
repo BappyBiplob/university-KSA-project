@@ -93,14 +93,14 @@ nav.sticky .menu a:hover{
   }
   
   .media-icons a {
-    color: var(--primary-color);
+    color: var(--black-color);
     font-size: 30px;
     margin: 0 15px;
-    transition: color 0.3s ease; /* Adding transition effect */
+    transition: color 0.3s ease; 
   }
   
   .media-icons a:hover {
-    color: #ff8882; /* Changing color on hover */
+    color: #ffffff; 
   }
 
 /* side navigation Menu Button CSS */
@@ -451,7 +451,7 @@ footer .text span a:hover{
      left:-100%;
      top:0;
      background:var(--primary-color);
-     height:100vh;
+     height:60vh;
      max-width: 400px;
      width:100%;
      padding-top:60px;
